@@ -86,16 +86,3 @@ Start the development server
 ```bash
   npm run dev
 ```
-
-## Backend Repository
-
-[Dialecto-BK](https://github.com/melohub-xbit/DIALECTO-BK)
-## Demo
-
-https://youtu.be/celR6rwV5z8
-
-
-### Note
-
-Due to the free tier of render.com on which the backend is deployed, due to inactivity the deployment is shut down occasionally. So the requests might take quite longer than expected. We apologise for this, but we couldn't find a better option to deploy.
-

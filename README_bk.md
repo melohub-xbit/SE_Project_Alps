@@ -65,16 +65,6 @@ Dialecto offers a variety of features to help users learn new languages:
     - **Tongue Twister Generator:** Practice your pronunciation with tongue twisters.
     - **Grammar Buddy:** Get help with grammar and correct your sentences.
 
-## Demo
-
-https://youtu.be/celR6rwV5z8
-
-
-## Deployment
-
-- **Backend:** Deployed on Render at [https://dialecto.onrender.com](https://dialecto.onrender.com).
-- **Frontend:** Deployed on Vercel at [https://dialecto-nine.vercel.app/](https://dialecto-nine.vercel.app/).
-
 ## Getting Started
 
 To run the backend locally:
@@ -87,5 +77,3 @@ To run the backend locally:
    ```bash
    uvicorn main:app --reload
    ```
-
-### The backend will be accessible at `http://127.0.0.1:8000` or the link given in the terminal. To also run the frontend, follow the instructions in the frontend repository: https://github.com/CShah44/Dialecto.git
